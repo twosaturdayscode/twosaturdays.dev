@@ -1,16 +1,49 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
+
+.custom-block {
+  @apply rounded border-l-8 py-3 pl-6 my-3;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+.custom-block-header {
+  @apply flex flex-row items-center mb-3 gap-2
 }
 
-* {
-  box-sizing: border-box;
+.custom-block-icon {
+  @apply text-2xl
+}
+
+.custom-block-title {
+  @apply p-0 text-lg font-bold;
+}
+
+.custom-block > p {
+  @apply m-0;
+}
+
+.custom-block.info {
+  @apply border-blue-500 bg-blue-200;
+}
+
+.custom-block.tip {
+  @apply border-blue-500 bg-blue-200;
+}
+
+.custom-block.insight {
+  @apply border-blue-500 bg-blue-200;
+}
+
+.custom-block.warning {
+  @apply border-yellow-500 bg-yellow-200;
+}
+
+.custom-block.danger {
+  @apply border-red-500 bg-red-200;
+}
+
+.custom-block.target {
+  @apply border-emerald-500 bg-emerald-200;
 }
