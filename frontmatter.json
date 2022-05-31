@@ -6,6 +6,9 @@
     {
       "title": "projects",
       "path": "[[workspace]]/content/projects"
+    },
+    {
+      "path": "[[workspace]]/content/blog"
     }
   ]
 }
