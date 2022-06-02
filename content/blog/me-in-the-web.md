@@ -16,7 +16,7 @@ Meanwhile I found a job as a warehouse worker, I worked there for 9 months until
 
 9 months in the cold of a warehouse, lifting heavy boxes, doing more or less the same thing every day.
 
-## The clearance
+## The clearness
 
 Anyway, at home I had the opportunity to ponder, those 9 months had shown me something, the reason why I was unable to find work was not so much because I was searching in the wrong way (although it is very likely) rather I could not because **I did not want** to find a job with my degree...
 
