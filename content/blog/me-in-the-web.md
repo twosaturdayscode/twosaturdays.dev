@@ -1,11 +1,11 @@
 ---
 title: Me in the web
-description: >-
-  Why and how I got into the field of web development, a simple journey that led
+description: Why and how I got into the field of web development, a simple journey that led
   me to where I am now
-date: {}
-published: true
+date: 2022-06-02T14:38:02.836Z
+slug: me-in-the-web
 ---
+
 After graduating in industrial chemistry I was more dazed than ever, I had no idea what I wanted or wanted to do, I just knew I had to find a job with this degree .
 
 I watch myriads of videos and read as many articles on how to look for work, I start setting up profiles on various job finding sites, I send out some resumes and I start using LinkedIn as if it were Facebook.
@@ -22,10 +22,10 @@ Anyway, at home I had the opportunity to ponder, those 9 months had shown me som
 
 That's it, I didn't want to find a job in the chemical field, they all seemed so boring and I couldn't find anyone who would give me some concrete indication.
 
-But why do I say that my job as a warehouse worker had shown me something? 
+But why do I say that my job as a warehouse worker had shown me something?
 
-Well, in those 9 months, I didn't limit myself to my daily chores, we were very few in the warehouse, 4 people (small business in professional coffee machines spare parts), it was necessary to fill more roles and I liked the idea of ​​being responsible for my work and deciding day by day what to do. 
-Moreover, in the periods with less load, I enjoyed improving some aspects of our work, I learned Excel, Access, SQL and VBA to create small applications that could support me, like managing the orders, improving the labels using a barcode-based system and rearranging the goods in the warehouse to based on their movements. 
+Well, in those 9 months, I didn't limit myself to my daily chores, we were very few in the warehouse, 4 people (small business in professional coffee machines spare parts), it was necessary to fill more roles and I liked the idea of ​​being responsible for my work and deciding day by day what to do.
+Moreover, in the periods with less load, I enjoyed improving some aspects of our work, I learned Excel, Access, SQL and VBA to create small applications that could support me, like managing the orders, improving the labels using a barcode-based system and rearranging the goods in the warehouse to based on their movements.
 In short, I always strived to improving the way we worked even if it was just cleaning and tidying up the work environment.
 
 _**I realized that what I liked most was solving problems, studying, applying, creating and improving.**_

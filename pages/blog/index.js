@@ -12,7 +12,7 @@ export default function Posts({ posts }) {
           Writing.
         </p>
       </div>
-      <section className="px-32">
+      <section className="xl:px-10">
         {posts &&
           posts.map((post) => {
             return <PostCard key={post.slug} {...post.data} />;
