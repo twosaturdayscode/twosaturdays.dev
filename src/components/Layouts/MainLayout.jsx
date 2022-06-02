@@ -19,7 +19,7 @@ export default function MainLayout({ children }) {
           rel="stylesheet"
         />
       </Head>
-      <div className="container mx-auto flex h-screen w-full flex-col justify-between bg-[#FFFFFA] px-6 pt-16 text-zinc-800 selection:bg-yellow-400 lg:px-40 xl:px-80">
+      <div className="container mx-auto flex h-full w-full flex-col justify-between bg-[#FFFFFA] px-6 pt-16 text-zinc-800 selection:bg-yellow-400 lg:px-40 xl:px-80">
         <div className="flex flex-col gap-9">
           <div className="flex w-full flex-col items-center justify-between gap-5 px-2 sm:flex-row sm:items-end">
             <header className="flex w-full flex-col-reverse gap-2">
